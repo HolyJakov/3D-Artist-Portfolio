@@ -48,6 +48,7 @@
   }
   .projects-head{
     margin-top: 3em;
+    color: white;
   }
   .projects {
     display: flex;
@@ -60,6 +61,9 @@
   }
   .projects a:hover {
     text-decoration: underline;
+  }
+  .youtubeLink a{
+    margin-top: 2em;
   }
   .gallery {
     display: flex;
